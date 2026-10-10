@@ -1,3 +1,9 @@
+/*
+Program Title: Sum of First 50 Natural Numbers
+Name: Muhammad Usman Zafar
+Registration Number: L1F25BSCS0217
+Assignment: 01
+*/
 #include <iostream>
 using namespace std;
 
