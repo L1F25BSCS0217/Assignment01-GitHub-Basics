@@ -16,6 +16,11 @@ int main() {
 
     cout << "Sum of first 50 natural numbers: " << sum << endl;
 
+    int n = 50;
+    int formulaSum = n * (n + 1) / 2;
+
+    cout << "Sum using formula n(n+1)/2: " << formulaSum << endl;
+
     return 0;
 }
   
